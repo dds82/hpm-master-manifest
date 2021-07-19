@@ -1,0 +1,19 @@
+{
+  "author": "Daniel Segall (dds82)",
+  "gitHubUrl": "https://github.com/dds82",
+  "payPalUrl": "https://paypal.me/DanielSegall",
+  "packages": [
+    {
+      "name": "Shabbat and Holiday Scheduler",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/dds82/shabbat/main/packageManifest.json",
+      "description": "Schedule automatic Location Mode changes for Shabbat and holidays",
+	  "tags": [
+		"Automations & Groups",
+		"Lights & Switches",
+		"Presence & Location",
+		"Tools & Utilities"
+	  ]
+    }
+  ]
+}
