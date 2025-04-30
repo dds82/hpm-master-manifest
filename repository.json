@@ -8,12 +8,23 @@
       "category": "Convenience",
       "location": "https://raw.githubusercontent.com/dds82/shabbat/main/packageManifest.json",
       "description": "Schedule automatic Location Mode changes for Shabbat and holidays",
+      "tags": [
+        "Automations & Groups",
+        "Lights & Switches",
+        "Presence & Location",
+        "Tools & Utilities"
+      ],
+      "id": "8a52e14f-595c-4bb4-8df5-d42fd9a031ae"
+    },
+    {
+      "id": "4f8b077a-6808-4ead-856b-af7de29aa7bf",
+      "name": "Smart Attribute Aggregator",
+      "category": "Convenience",
 	  "tags": [
-		"Automations & Groups",
-		"Lights & Switches",
-		"Presence & Location",
-		"Tools & Utilities"
-	  ]
+        "Tools & Utilities"
+      ],
+      "location": "https://raw.githubusercontent.com/dds82/smartdevices/refs/heads/master/attributeaggregator/packageManifest.json",
+      "description": "An app that aggregates data from a battery-powered device and a mains-powered device into a single child device. The data will come from only one source: the battery-powered device if it is healthy; otherwise the mains-powered device."
     }
   ]
 }
